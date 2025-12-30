@@ -1,0 +1,72 @@
+# Build directories
+build/
+bin/
+lib/
+out/
+
+# C/C++
+*.o
+*.obj
+*.so
+*.a
+*.exe
+*.out
+*.dll
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDEs
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+venv*/
+env/
+ENV/
+.venv/
+.mypy_cache/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# Rust
+target/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Archives / backups
+backups/
+
+# Git
+.git/
+
+# Large data or models (uncomment if you want to ignore dataset/model directories)
+#data/
+#model/
+
+# Libtorch, build artifacts and temporary files
+libtorch/
+
+# Misc
+*.swp
+*.swo

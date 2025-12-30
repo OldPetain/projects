@@ -1,0 +1,8 @@
+git add .
+git commit -m "提交时的注释"
+
+回退：
+git reset --hard <id>
+
+查看提交记录：
+git log

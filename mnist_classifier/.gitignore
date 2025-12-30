@@ -1,0 +1,16 @@
+# Auto-generated ignores
+venv*
+__pycache__/
+*.py[cod]
+*.so
+*.h5
+*.pt
+*.pth
+*.npy
+*.bin
+model/
+output/
+runs/
+build/
+backups/
+node_modules/
